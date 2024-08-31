@@ -1,4 +1,4 @@
 # myproject-demo
 This is my first Git Repository.
 <br>
-Author - Deepak kumar
+Author - Deepak (kumar) NIT
